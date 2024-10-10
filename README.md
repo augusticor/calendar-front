@@ -74,7 +74,7 @@ If you are going to use it for development, testing or your own production, firs
 
 ### Live Deployment
 
-Just visit the **deployed** app at **[Calendar App](https://calendarappa.up.railway.app/auth/login)**
+Just visit the **deployed** app at **[Calendar App Render](https://calendar-back-leti.onrender.com/auth/login)**
 
 ## Available scripts
 
