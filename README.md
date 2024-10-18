@@ -10,7 +10,7 @@ You are the only admin of your events, being able to:
 - [x] Delete events
 - [ ] View other people events (now only private events from march 2023)
 
-Visit the **deployed** app at **[Calendar App](https://calendarappa.up.railway.app/auth/login)**
+Visit the **deployed** app at **[Calendar App](https://calendar-back-leti.onrender.com/auth/login)**
 
 Check the backend code and tech stack at [Calendar Back github repository](https://github.com/augusticor/calendar-back#readme)
 
