@@ -22,7 +22,7 @@ const getMockStore = (initialState = {}) => {
 describe('Tests on useAuthStore custom hook', () => {
   beforeEach(() => localStorage.clear());
 
-  test('should return default props and functions', () => {
+  test('should return default status and functions', () => {
     const mockedStore = getMockStore(defaultState);
 
     const { result } = renderHook(() => useAuthStore(), {
